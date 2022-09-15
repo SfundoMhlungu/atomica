@@ -1,0 +1,17 @@
+{
+  "name": "atomicus",
+  "version": "1.0.0",
+  "description": "",
+  "module": "./lib/esm/index.js",
+  "files": [
+      "lib/"
+  ],
+  "types": "lib/esm",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/SfundoMhlungu/vanilla-forms"
+}
